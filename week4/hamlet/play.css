@@ -1,0 +1,76 @@
+* {
+    display: block;
+    /* border: thin solid red; */
+}
+
+play>title {
+    font-size: xx-large;
+    text-align: center;
+}
+
+play {
+    padding: 1em;
+    background-color: ghostwhite;
+}
+
+author,
+title {
+    font-variant: small-caps;
+    text-align: center;
+}
+
+author,
+play>title {
+    letter-spacing: 0.25em;
+}
+
+scene>title {
+    font-size: large;
+    border: thin solid red;
+    padding: 0.25em;
+}
+
+act {
+    padding-top: 1em;
+    margin-top: 1em;
+    border-top: 0.25em solid black;
+}
+
+scene {
+    padding-top: 1em;
+}
+
+speaker {
+    font-weight: bold;
+}
+
+speech>line,
+speech>stagedir {
+    margin-left: 1em;
+}
+
+stagedir::before {
+    content: "("
+}
+
+stagedir::after {
+    content: ")"
+}
+
+stagedir {
+    color: gray;
+    font-style: italic;
+}
+
+line>stagedir {
+    display: inline;
+}
+
+speech,
+scene>stagedir {
+    margin-top: 1em;
+}
+
+play>author {
+    font-size: x-large;
+}
