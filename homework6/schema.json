@@ -1,0 +1,74 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "title": "TODO",
+    "description": "A TODO element.",
+    "type": "object",
+    "properties": {
+        "$schema": {
+            "type": "string"
+        },
+        "title": {
+            "description": "Title of the list.",
+            "type": "string"
+        },
+        "list": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "priority": {
+                        "description": "Priority of the TODO element. Can be low, medium or high.",
+                        "enum": [
+                            "low",
+                            "medium",
+                            "high"
+                        ],
+                        "type": "string"
+                    },
+                    "description": {
+                        "description": "The detaild description of the TODO element.",
+                        "type": "string"
+                    },
+                    "state": {
+                        "description": "State of the element. Can be either opened or closed.",
+                        "enum": [
+                            "opened",
+                            "closed"
+                        ],
+                        "type": "string"
+                    },
+                    "createdDate": {
+                        "description": "The date of the creation. Format: yyyy-mm-dd.",
+                        "type": "string",
+                        "format": "date"
+                    },
+                    "dueDate": {
+                        "description": "Date that the task is due on. Format: yyyy-mm-dd.",
+                        "type": "string",
+                        "format": "date"
+                    },
+                    "completedDate": {
+                        "description": "The date that the task was completed on. Format: yyyy-mm-dd.",
+                        "type": "string",
+                        "format": "date"
+                    }
+                },
+                "required": [
+                    "priority",
+                    "description",
+                    "state",
+                    "createdDate"
+                ],
+                "additionalProperties": {
+                    "type": "string"
+                }
+            },
+            "additionalItems": false
+        }
+    },
+    "required": [
+        "title",
+        "list"
+    ],
+    "additionalProperties": false
+}
