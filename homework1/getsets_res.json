@@ -1,0 +1,555 @@
+{"status":"success","matches":9,"sets":[
+  {
+    "setID": 5722,
+    "number": "8916",
+    "numberVariant": 1,
+    "name": "Takadox",
+    "year": 2007,
+    "theme": "Bionicle",
+    "themeGroup": "Constraction",
+    "subtheme": "Barraki",
+    "category": "Normal",
+    "released": true,
+    "pieces": 62,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8916-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8916-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8916-1",
+    "collection": {
+      "owned": false,
+      "wanted": false,
+      "qtyOwned": 0,
+      "rating": 0,
+      "notes": ""
+    },
+    "collections": {
+      "ownedBy": 2695,
+      "wantedBy": 567
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 9.99,
+        "dateFirstAvailable": "2007-10-24T00:00:00Z",
+        "dateLastAvailable": "2008-02-04T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 7.99,
+        "dateFirstAvailable": "2007-10-24T00:00:00Z",
+        "dateLastAvailable": "2008-09-11T00:00:00Z"
+      },
+      "CA": {},
+      "DE": {}
+    },
+    "rating": 4.3,
+    "reviewCount": 13,
+    "packagingType": "{Not specified}",
+    "availability": "{Not specified}",
+    "instructionsCount": 2,
+    "additionalImageCount": 0,
+    "ageRange": {},
+    "dimensions": {
+      "height": 22.62,
+      "width": 11.0,
+      "depth": 8.8,
+      "weight": 0.21
+    },
+    "barcode": {
+      "UPC": "673419090711"
+    },
+    "extendedData": {},
+    "lastUpdated": "2006-12-13T13:08:02Z"
+  },
+  {
+    "setID": 5723,
+    "number": "8917",
+    "numberVariant": 1,
+    "name": "Kalmah",
+    "year": 2007,
+    "theme": "Bionicle",
+    "themeGroup": "Constraction",
+    "subtheme": "Barraki",
+    "category": "Normal",
+    "released": true,
+    "pieces": 53,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8917-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8917-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8917-1",
+    "collection": {
+      "owned": false,
+      "wanted": false,
+      "qtyOwned": 0,
+      "rating": 0,
+      "notes": ""
+    },
+    "collections": {
+      "ownedBy": 2717,
+      "wantedBy": 558
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 9.99,
+        "dateFirstAvailable": "2007-10-24T00:00:00Z",
+        "dateLastAvailable": "2007-12-28T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 7.99,
+        "dateFirstAvailable": "2007-10-24T00:00:00Z",
+        "dateLastAvailable": "2008-09-11T00:00:00Z"
+      },
+      "CA": {},
+      "DE": {}
+    },
+    "rating": 4.2,
+    "reviewCount": 14,
+    "packagingType": "{Not specified}",
+    "availability": "{Not specified}",
+    "instructionsCount": 2,
+    "additionalImageCount": 0,
+    "ageRange": {},
+    "dimensions": {
+      "height": 22.62,
+      "width": 11.0,
+      "depth": 8.8,
+      "weight": 0.22
+    },
+    "barcode": {
+      "EAN": "5702014498525",
+      "UPC": "673419090704"
+    },
+    "extendedData": {},
+    "lastUpdated": "2006-12-13T13:09:04Z"
+  },
+  {
+    "setID": 5724,
+    "number": "8918",
+    "numberVariant": 1,
+    "name": "Carapar",
+    "year": 2007,
+    "theme": "Bionicle",
+    "themeGroup": "Constraction",
+    "subtheme": "Barraki",
+    "category": "Normal",
+    "released": true,
+    "pieces": 50,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8918-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8918-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8918-1",
+    "collection": {
+      "owned": false,
+      "wanted": false,
+      "qtyOwned": 0,
+      "rating": 0,
+      "notes": ""
+    },
+    "collections": {
+      "ownedBy": 2366,
+      "wantedBy": 602
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 9.99,
+        "dateFirstAvailable": "2007-10-24T00:00:00Z",
+        "dateLastAvailable": "2008-01-24T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 7.99,
+        "dateFirstAvailable": "2007-10-24T00:00:00Z",
+        "dateLastAvailable": "2008-09-11T00:00:00Z"
+      },
+      "CA": {},
+      "DE": {}
+    },
+    "rating": 4.2,
+    "reviewCount": 6,
+    "packagingType": "{Not specified}",
+    "availability": "{Not specified}",
+    "instructionsCount": 2,
+    "additionalImageCount": 0,
+    "ageRange": {},
+    "dimensions": {
+      "height": 22.62,
+      "width": 11.0,
+      "depth": 8.8,
+      "weight": 0.23
+    },
+    "barcode": {
+      "UPC": "673419090698"
+    },
+    "extendedData": {},
+    "lastUpdated": "2006-12-13T13:09:43Z"
+  },
+  {
+    "setID": 5725,
+    "number": "8919",
+    "numberVariant": 1,
+    "name": "Mantax",
+    "year": 2007,
+    "theme": "Bionicle",
+    "themeGroup": "Constraction",
+    "subtheme": "Barraki",
+    "category": "Normal",
+    "released": true,
+    "pieces": 58,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8919-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8919-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8919-1",
+    "collection": {
+      "owned": false,
+      "wanted": false,
+      "qtyOwned": 0,
+      "rating": 0,
+      "notes": ""
+    },
+    "collections": {
+      "ownedBy": 2354,
+      "wantedBy": 596
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 9.99,
+        "dateFirstAvailable": "2007-10-24T00:00:00Z",
+        "dateLastAvailable": "2008-01-26T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 7.99,
+        "dateFirstAvailable": "2007-10-24T00:00:00Z",
+        "dateLastAvailable": "2008-09-23T00:00:00Z"
+      },
+      "CA": {},
+      "DE": {}
+    },
+    "rating": 4.1,
+    "reviewCount": 10,
+    "packagingType": "{Not specified}",
+    "availability": "{Not specified}",
+    "instructionsCount": 2,
+    "additionalImageCount": 0,
+    "ageRange": {},
+    "dimensions": {
+      "height": 22.62,
+      "width": 11.0,
+      "depth": 8.8,
+      "weight": 0.23
+    },
+    "barcode": {
+      "UPC": "673419090681"
+    },
+    "extendedData": {},
+    "lastUpdated": "2006-12-13T13:10:40Z"
+  },
+  {
+    "setID": 5726,
+    "number": "8920",
+    "numberVariant": 1,
+    "name": "Ehlek",
+    "year": 2007,
+    "theme": "Bionicle",
+    "themeGroup": "Constraction",
+    "subtheme": "Barraki",
+    "category": "Normal",
+    "released": true,
+    "pieces": 54,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8920-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8920-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8920-1",
+    "collection": {
+      "owned": false,
+      "wanted": false,
+      "qtyOwned": 0,
+      "rating": 0,
+      "notes": ""
+    },
+    "collections": {
+      "ownedBy": 2726,
+      "wantedBy": 608
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 9.99,
+        "dateFirstAvailable": "2007-10-24T00:00:00Z",
+        "dateLastAvailable": "2008-01-30T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 7.99,
+        "dateFirstAvailable": "2007-10-24T00:00:00Z",
+        "dateLastAvailable": "2008-09-17T00:00:00Z"
+      },
+      "CA": {},
+      "DE": {}
+    },
+    "rating": 4.1,
+    "reviewCount": 18,
+    "packagingType": "{Not specified}",
+    "availability": "{Not specified}",
+    "instructionsCount": 2,
+    "additionalImageCount": 0,
+    "ageRange": {},
+    "dimensions": {
+      "height": 22.62,
+      "width": 11.0,
+      "depth": 8.8,
+      "weight": 0.22
+    },
+    "barcode": {
+      "UPC": "673419090735"
+    },
+    "extendedData": {},
+    "lastUpdated": "2006-12-13T13:11:16Z"
+  },
+  {
+    "setID": 5727,
+    "number": "8921",
+    "numberVariant": 1,
+    "name": "Pridak",
+    "year": 2007,
+    "theme": "Bionicle",
+    "themeGroup": "Constraction",
+    "subtheme": "Barraki",
+    "category": "Normal",
+    "released": true,
+    "pieces": 47,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8921-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8921-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8921-1",
+    "collection": {
+      "owned": false,
+      "wanted": false,
+      "qtyOwned": 0,
+      "rating": 0,
+      "notes": ""
+    },
+    "collections": {
+      "ownedBy": 2504,
+      "wantedBy": 547
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 9.99,
+        "dateFirstAvailable": "2007-10-24T00:00:00Z",
+        "dateLastAvailable": "2008-03-13T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 7.99,
+        "dateFirstAvailable": "2007-10-24T00:00:00Z",
+        "dateLastAvailable": "2008-09-18T00:00:00Z"
+      },
+      "CA": {},
+      "DE": {}
+    },
+    "rating": 3.9,
+    "reviewCount": 10,
+    "packagingType": "{Not specified}",
+    "availability": "{Not specified}",
+    "instructionsCount": 2,
+    "additionalImageCount": 0,
+    "ageRange": {},
+    "dimensions": {
+      "height": 22.62,
+      "width": 11.0,
+      "depth": 8.8,
+      "weight": 0.21
+    },
+    "barcode": {
+      "UPC": "673419090728"
+    },
+    "extendedData": {},
+    "lastUpdated": "2006-12-13T13:12:46Z"
+  },
+  {
+    "setID": 6089,
+    "number": "8925",
+    "numberVariant": 1,
+    "name": "Barraki Deepsea Patrol ",
+    "year": 2007,
+    "theme": "Bionicle",
+    "themeGroup": "Constraction",
+    "subtheme": "Playsets",
+    "category": "Normal",
+    "released": true,
+    "pieces": 228,
+    "minifigs": 4,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8925-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8925-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8925-1",
+    "collection": {
+      "owned": false,
+      "wanted": false,
+      "qtyOwned": 0,
+      "rating": 0,
+      "notes": ""
+    },
+    "collections": {
+      "ownedBy": 580,
+      "wantedBy": 498
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 29.99,
+        "dateFirstAvailable": "2007-10-24T00:00:00Z",
+        "dateLastAvailable": "2008-09-11T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 19.99,
+        "dateFirstAvailable": "2007-10-24T00:00:00Z",
+        "dateLastAvailable": "2008-09-11T00:00:00Z"
+      },
+      "CA": {},
+      "DE": {}
+    },
+    "rating": 0.0,
+    "reviewCount": 1,
+    "packagingType": "{Not specified}",
+    "availability": "{Not specified}",
+    "instructionsCount": 2,
+    "additionalImageCount": 0,
+    "ageRange": {},
+    "dimensions": {
+      "height": 28.8,
+      "width": 38.4,
+      "depth": 6.0,
+      "weight": 0.6
+    },
+    "barcode": {
+      "UPC": "673419091848"
+    },
+    "extendedData": {},
+    "lastUpdated": "2007-07-01T06:08:17Z"
+  },
+  {
+    "setID": 6090,
+    "number": "8926",
+    "numberVariant": 1,
+    "name": "Toa Undersea Attack",
+    "year": 2007,
+    "theme": "Bionicle",
+    "themeGroup": "Constraction",
+    "subtheme": "Playsets",
+    "category": "Normal",
+    "released": true,
+    "pieces": 401,
+    "minifigs": 6,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8926-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8926-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8926-1",
+    "collection": {
+      "owned": false,
+      "wanted": false,
+      "qtyOwned": 0,
+      "rating": 0,
+      "notes": ""
+    },
+    "collections": {
+      "ownedBy": 504,
+      "wantedBy": 493
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 49.99,
+        "dateFirstAvailable": "2007-10-24T00:00:00Z",
+        "dateLastAvailable": "2008-09-11T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 29.99,
+        "dateFirstAvailable": "2007-10-24T00:00:00Z",
+        "dateLastAvailable": "2008-10-24T00:00:00Z"
+      },
+      "CA": {},
+      "DE": {}
+    },
+    "rating": 0.0,
+    "reviewCount": 1,
+    "packagingType": "{Not specified}",
+    "availability": "{Not specified}",
+    "instructionsCount": 1,
+    "additionalImageCount": 0,
+    "ageRange": {},
+    "dimensions": {
+      "height": 28.8,
+      "width": 48.0,
+      "depth": 7.2,
+      "weight": 0.81
+    },
+    "barcode": {
+      "UPC": "673419091855"
+    },
+    "extendedData": {},
+    "lastUpdated": "2022-08-22T08:22:17.907Z"
+  },
+  {
+    "setID": 6091,
+    "number": "8927",
+    "numberVariant": 1,
+    "name": "Toa Terrain Crawler ",
+    "year": 2007,
+    "theme": "Bionicle",
+    "themeGroup": "Constraction",
+    "subtheme": "Playsets",
+    "category": "Normal",
+    "released": true,
+    "pieces": 674,
+    "minifigs": 10,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/8927-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/8927-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/8927-1",
+    "collection": {
+      "owned": false,
+      "wanted": false,
+      "qtyOwned": 0,
+      "rating": 0,
+      "notes": ""
+    },
+    "collections": {
+      "ownedBy": 559,
+      "wantedBy": 606
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 69.99,
+        "dateFirstAvailable": "2007-10-24T00:00:00Z",
+        "dateLastAvailable": "2008-09-11T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 39.99,
+        "dateFirstAvailable": "2007-10-24T00:00:00Z",
+        "dateLastAvailable": "2008-09-23T00:00:00Z"
+      },
+      "CA": {},
+      "DE": {}
+    },
+    "rating": 0.0,
+    "reviewCount": 3,
+    "packagingType": "{Not specified}",
+    "availability": "{Not specified}",
+    "instructionsCount": 2,
+    "additionalImageCount": 0,
+    "ageRange": {},
+    "dimensions": {
+      "height": 38.4,
+      "width": 57.6,
+      "depth": 7.2,
+      "weight": 1.5
+    },
+    "barcode": {
+      "UPC": "673419091862"
+    },
+    "extendedData": {},
+    "lastUpdated": "2007-07-01T06:09:53Z"
+  }
+]}

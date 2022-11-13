@@ -1,0 +1,44 @@
+Login:
+
+http GET https://brickset.com/api/v3.asmx/login apiKey==***************** username==kevelajsz password==**********
+HTTP/1.1 200 OK
+CF-Cache-Status: DYNAMIC
+CF-RAY: 751c7949bfa2b345-PRG
+Cache-Control: private, max-age=0
+Connection: keep-alive
+Content-Length: 40
+Date: Wed, 28 Sep 2022 12:27:33 GMT
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=KIz7E%2BkF24vF3Cy0f2OmGv2ptb8UzRLAbH93f%2BPMXMW%2BGZ74xWXWAbXYFwsPR1rQblNDvgnQKcsCpBU0yaBSGJaX4DjT0fUsl%2BS3kw%2F6vD01UI1fFjvn2r3AXdyb6A%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Powered-By-Plesk: PleskWin
+X-Xss-Protection: 1; mode=block
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+
+{"status":"success","hash”:”**********“}
+
+
+
+GetSets:
+
+http GET https://brickset.com/api/v3.asmx/getSets apiKey==***************** userHash==********** 'params=={"theme": "bionicle", "year": "2007", "tag": "barraki"}'
+HTTP/1.1 200 OK
+CF-Cache-Status: DYNAMIC
+CF-RAY: 751c80e87a312790-PRG
+Cache-Control: private, max-age=0
+Connection: keep-alive
+Content-Length: 14170
+Date: Wed, 28 Sep 2022 12:32:45 GMT
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=JwkxpbShtsHG6oJQWmXkqbpBg5xCrgmutykm61iYcgwEqDpqB7bpWhPJRZJmodVTbWItedVsrW6W8dNbLGx8CP9Xrg3IibV7lSrs6tE%2FDiPWLdn0crld%2Fss%2F6KznNQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Powered-By-Plesk: PleskWin
+X-Xss-Protection: 1; mode=block
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+
+{"status":"success","matches":9,"sets”:[]}
+Az egész HTTP válasz a getsets_res.json fájlban.

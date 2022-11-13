@@ -1,0 +1,54 @@
+:root {
+    --border: 1px solid rgb(47, 16, 16);
+}
+
+body {
+    background-color: #222;
+    padding: 0;
+    margin: 0;
+}
+
+table {
+    --size: calc(100vmin - 24px);
+    width: var(--size);
+    height: var(--size);
+    padding: 0;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 0;
+    border: var(--border);
+}
+
+table td {
+    background-color: black;
+    position: relative;
+    border: var(--border);
+}
+
+table td:hover {
+    background-color: #111;
+}
+
+table td::before {
+    content: "";
+    font-size: 6vmin;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    user-select: none;
+}
+
+table td.monster::before {
+    content: "🧛🏻‍♂️";
+}
+
+table td.object::before {
+    content: "🧄"
+}
+
+table td.van-helsing::before {
+    content: "🤠";
+}
