@@ -1,0 +1,43 @@
+main {
+    border: thin solid black;
+    padding: 1em;
+    font-family: sans-serif;
+}
+
+table.aquarium {
+    border-collapse: collapse;
+    margin: auto;
+}
+
+table.aquarium th, table.aquarium td {
+    width: 2rem;
+    height: 2rem;
+}
+
+table.aquarium th {
+    color: lightgray;
+}
+
+table.aquarium td {
+    border: thin solid black;
+}
+
+table.aquarium td.filled {
+    background-color: lightblue;
+}
+
+table.aquarium > tbody > tr:first-child > td, table.aquarium td.top {
+    border-top: thick solid black;
+}
+
+table.aquarium > tbody td:first-of-type, table.aquarium td.left {
+    border-left: thick solid black;
+}
+
+table.aquarium > tbody > tr:last-child > td {
+    border-bottom: thick solid black;
+}
+
+table.aquarium > tbody td:last-of-type {
+    border-right: thick solid black;
+}

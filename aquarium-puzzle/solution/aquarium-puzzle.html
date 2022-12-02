@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Aquarium Puzzle</title>
+    <link rel="stylesheet" href="aquarium-puzzle.css">
+</head>
+<body>
+    <main>
+        <h1>Aquarium Puzzle</h1>
+        <table class="aquarium">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>3</th>
+                    <th>2</th>
+                    <th>3</th>
+                    <th>1</th>
+                    <th>4</th>
+                    <th>4</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <!-- Row 1 -->
+                    <th>1</th>
+                    <td></td>
+                    <td></td>
+                    <td class="left"></td>
+                    <td></td>
+                    <td></td>
+                    <td class="filled left"></td>
+                    <th>1</th>
+                </tr>
+                <tr>
+                    <!-- Row 2 -->
+                    <th>1</th>
+                    <td></td>
+                    <td></td>
+                    <td class="top"></td>
+                    <td class="left"></td>
+                    <td></td>
+                    <td class="filled left"></td>
+                    <th>1</th>
+                </tr>
+                <tr>
+                    <!-- Row 3 -->
+                    <th>5</th>
+                    <td class="filled"></td>
+                    <td class="filled"></td>
+                    <td class="filled"></td>
+                    <td class="left"></td>
+                    <td class="filled left top"></td>
+                    <td class="filled top"></td>
+                    <th>5</th>
+                </tr>
+                <tr>
+                    <!-- Row 4 -->
+                    <th>4</th>
+                    <td class="filled"></td>
+                    <td class="filled"></td>
+                    <td class="filled"></td>
+                    <td class="left top"></td>
+                    <td class="filled left"></td>
+                    <td class="left top"></td>
+                    <th>4</th>
+                </tr>
+                <tr>
+                    <!-- Row 5 -->
+                    <th>2</th>
+                    <td class="filled"></td>
+                    <td class="left top"></td>
+                    <td class="top"></td>
+                    <td></td>
+                    <td class="filled left"></td>
+                    <td class="left"></td>
+                    <th>2</th>
+                </tr>
+                <tr>
+                    <!-- Row 6 -->
+                    <th>4</th>
+                    <td class="top"></td>
+                    <td class="top"></td>
+                    <td class="filled left"></td>
+                    <td class="filled"></td>
+                    <td class="filled top"></td>
+                    <td class="filled"></td>
+                    <th class>4</th>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <th></th>
+                    <th>3</th>
+                    <th>2</th>
+                    <th>3</th>
+                    <th>1</th>
+                    <th>4</th>
+                    <th>4</th>
+                    <th></th>
+                </tr>
+            </tfoot>
+        </table>
+        <div class="rules">
+            <h2>Rules</h2>
+            <p>The game is played on a rectangular grid that is divided into
+                blocks called aquariums. You have to fill each aquarium with
+                water up to a certain level or leave it empty. The water level
+                in each aquarium is the same across its full width. The
+                numbers outside the grid show the number of filled cells
+                horizontally and vertically.</p>
+        </div>
+    </main>
+</body>
+</html>
